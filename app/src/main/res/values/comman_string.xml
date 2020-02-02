@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Font-->
+    <string name="app_font">fonts/FSMatthew.otf</string>
+    <string name="date_dont">fonts/FSMatthew_Medium.otf</string>
+    <string name="edittext_font">fonts/FSMatthew_Light.otf</string>
+    <string name="fsmatthew_light">fonts/FSMatthew_Light.otf</string>
+    <string name="fsmatthew">fonts/FSMatthew.otf</string>
+    <string name="fsmatthew_regular">fonts/FSMatthew_Regular.otf</string>
+    <string name="fsmatthew_medium">fonts/FSMatthew_Medium.otf</string>
+    <string name="fsmatthew_bold">fonts/FSMatthew_bold.otf</string>
+    <string name="fsmatthew_italic">fonts/FSMatthew_italic.otf</string>
+    <string name="graphik_bold">fonts/Graphik_bold.otf</string>
+    <string name="graphik_light">fonts/Graphik_light.otf</string>
+    <string name="graphik_medium">fonts/Graphik_medium.otf</string>
+    <string name="graphik_regular">fonts/Graphik_regular.otf</string>
+    <string name="graphik_semi_bold">fonts/Graphik_Semibold.otf</string>
+    <string name="neo_sans_arabic_medium">fonts/neo_sans_arabic_medium.ttf</string>
+    <string name="neo_sans_arabic">fonts/neosansarabic.ttf</string>
+
+    <string name="change_lang_font_arabic">fonts/neosansarabic.ttf</string>
+    <string name="change_lang_font_english">fonts/FSMatthew_Regular.otf</string>
+
+    <!--Translatable not required-->
+    <string name="baseTaskAffinity" translatable="false">BaseTaskAffinity.Activity</string>
+    <string name="verification_code" translatable="false">Verification Code</string>
+    <string name="details_blank" translatable="false">-</string>
+    <string name="enter_your" translatable="false">Enter your</string>
+    <string name="confirm_your" translatable="false">Confirm your</string>
+    <string name="six_digit_pin" translatable="false">6-Digit PIN</string>
+    <string name="close_item_menu_title" translatable="false">Close</string>
+    <string name="lblKm" translatable="false">Km</string>
+    <string name="percent_sign" translatable="false">%</string>
+    <string name="imageContentDesc" translatable="false">Image content description</string>
+    <string name="local_currency" translatable="false">"AED"</string>
+    <string name="forward_slash" translatable="false">\u0020\/\u0020</string>
+
+</resources>
